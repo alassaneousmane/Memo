@@ -1,0 +1,13 @@
+--------------------------------------------------- React ---------------------------------------------
+Installer la derniere version de Node JS
+node --version => Vérifier son installation par la commande node --version
+npm --version => Vérifier que npm est bien installé avec Node avec la commande npm --version
+npm install --global npm ==> Ou l'installer par la commande  npm install --global npm 
+npm install --global create-react-app ==> Installation de create
+create-react-app memory ==> Demande à CRA de créer le squelette de notre application
+
+--------------------------- ------------------------When npm start fails to run ------------------------------------
+npm uninstall gulp --save
+npm install
+npm run build
+npm start
